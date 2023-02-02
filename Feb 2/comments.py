@@ -1,4 +1,4 @@
-# 1 / 31 Class Code
+# 2/2 Class Code
 
 # Asks the user for their username and prints it.
 n = input("Login: ")
