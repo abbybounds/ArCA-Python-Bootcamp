@@ -2,7 +2,7 @@
 
 # Math Operators Review
 seconds_per_minute = 60
-minutes_per_hour = 60
+minutes_per_hour = 80 # Skyler Version
 hours_per_day = 24
 
 # Formula for seconds per hour.
