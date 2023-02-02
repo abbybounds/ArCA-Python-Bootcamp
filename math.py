@@ -12,5 +12,5 @@ print("Seconds per day:", seconds_per_day)
 
 # Compare / and //.
 print("Seconds per hour: ", seconds_per_day / seconds_per_hour, "\n")
-print("Seconds per seconds_per_day // seconds_per_hour)
+print("Seconds per seconds_per_day // seconds_per_hour")
 
